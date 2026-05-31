@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jezza
 
-<!--
-**60012/60012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Builder, learner, and creator passionate about technology and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Exploring Backend Development, Artificial Intelligence, and Automation while building projects that solve real-world problems.
+
+🌱 Currently focused on:
+- Python
+- JavaScript & Node.js
+- APIs & Backend Systems
+- AI & Machine Learning
+
+📚 Believer in continuous growth, learning, and creating value through technology.
+
+> Learn. Build. Improve. Repeat.
