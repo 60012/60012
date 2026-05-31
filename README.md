@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jezza
+# 👋 Hi, I'm Joshua
 
 🎓 Computer Science Student
 
