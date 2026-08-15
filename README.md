@@ -7,7 +7,6 @@
 🚀 Exploring Backend Development, Artificial Intelligence, and Automation while building projects that solve real-world problems.
 
 🌱 Currently focused on:
-- Python
 - JavaScript & Node.js
 - APIs & Backend Systems
 - AI & Machine Learning
